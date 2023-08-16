@@ -20,6 +20,7 @@ communicating with Mojang. Furthermore, this project is used for experimenting w
 * Configurable amount of name -> uuid requests before using proxies
 ## these changes are made by Dinesh Audichya
 ## change 2
+## change 3
 
 ## Planned
 
