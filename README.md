@@ -18,6 +18,7 @@ communicating with Mojang. Furthermore, this project is used for experimenting w
 * Default in-memory cache
 * Rotating proxies
 * Configurable amount of name -> uuid requests before using proxies
+//these changes are made by Dinesh Audichya
 
 ## Planned
 
@@ -43,7 +44,7 @@ requests if possible.
 
 ## Maven repository
 
-```xml
+l.,ukmjynht vdscx6t```xml
 	<repositories>
         <!-- CodeMc -->
         <repository>
